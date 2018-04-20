@@ -1,0 +1,2 @@
+# weShare
+A simple project
