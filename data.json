@@ -1,0 +1,138 @@
+{
+  "typeimgs":{
+    "minImgs":[{
+      "val":"food",
+      "title":"美食",
+      "total":"100",
+      "typeSrc":"/static/img/kinds_imgs/kinds_food.jpg"
+    },{
+      "val":"natural",
+      "title":"自然",
+      "total":"100",
+      "typeSrc":"/static/img/kinds_imgs/kinds_nature.jpg"
+    },{
+      "val":"person",
+      "title":"人物",
+      "total":"100",
+      "typeSrc":"/static/img/kinds_imgs/kinds_man.jpg"
+    },{
+      "val":"animal",
+      "title":"动物",
+      "total":"100",
+      "typeSrc":"/static/img/kinds_imgs/kinds_animal.jpg"
+    },{
+      "val":"simple",
+      "title":"简约",
+      "total":"100",
+      "typeSrc":"/static/img/kinds_imgs/kinds_simple.jpg"
+    },{
+      "val":"sky",
+      "title":"天空",
+      "total":"100",
+      "typeSrc":"/static/img/kinds_imgs/kinds_sky.jpg"
+    },{
+      "val":"city",
+      "title":"城市",
+      "total":"100",
+      "typeSrc":"/static/img/kinds_imgs/kinds_city.jpg"
+    },{
+      "val":"comic",
+      "title":"动漫",
+      "total":"100",
+      "typeSrc":"/static/img/kinds_imgs/kinds_comic.jpg"
+    },{
+      "val":"game",
+      "title":"游戏",
+      "total":"100",
+      "typeSrc":"/static/img/kinds_imgs/kinds_game.jpg"
+    },{
+      "val":"space",
+      "title":"太空",
+      "total":"100",
+      "typeSrc":"/static/img/kinds_imgs/kinds_space.jpg"
+    },{
+      "val":"healthy",
+      "title":"健康",
+      "total":"100",
+      "typeSrc":"/static/img/kinds_imgs/kinds_healthy.jpg"
+    },{
+      "val":"happiness",
+      "title":"开心",
+      "total":"100",
+      "typeSrc":"/static/img/kinds_imgs/kinds_happy.jpg"
+    }],
+    "food":{
+      "title":"美食",
+      "total":"212",
+      "typeSrc":"/static/img/kinds_imgs/kinds_food.jpg",
+      "src":[{"src":"static/img/PhotoCard/food/food (1).jpg","h":"450","contributor":"ccc"},{"src":"static/img/PhotoCard/food/food (2).jpg","h":"350","contributor":"ddd"},{"src":"static/img/PhotoCard/food/food (3).jpg","h":"600","contributor":"ccc"},{"src":"static/img/PhotoCard/food/food (4).jpg","h":"700","contributor":"ccc"},{"src":"static/img/PhotoCard/food/food (5).jpg","h":"350","contributor":"xx"},{"src":"static/img/PhotoCard/food/food (6).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/food/food (7).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/food/food (8).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/food/food (9).jpg","h":"350","contributor":"ccc"}]
+    },
+    "natural":{
+      "title":"自然",
+      "total":"801",
+      "typeSrc":"/static/img/kinds_imgs/kinds_nature.jpg",
+      "src":[{"src":"static/img/PhotoCard/Scenery/Scenery (1).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/Scenery/Scenery (2).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/Scenery/Scenery (3).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/Scenery/Scenery (4).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/Scenery/Scenery (5).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/Scenery/Scenery (6).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/Scenery/Scenery (7).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/Scenery/Scenery (8).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/Scenery/Scenery (9).jpg","h":"350","contributor":"ccc"}]
+    },
+    "person":{
+      "title":"人物",
+      "total":"1001",
+      "typeSrc":"/static/img/kinds_imgs/kinds_man.jpg",
+      "src":[{"src":"static/img/PhotoCard/person/person (1).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/person/person (2).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/person/person (3).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/person/person (4).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/person/person (5).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/person/person (6).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/person/person (7).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/person/person (8).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/person/person (9).jpg","h":"350","contributor":"ccc"}]
+    },
+    "animal":{
+      "title":"动物",
+      "total":"1020",
+      "typeSrc":"/static/img/kinds_imgs/kinds_animal.jpg",
+      "src":[{"src":"static/img/PhotoCard/animal/animal (1).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/animal/animal (2).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/animal/animal (3).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/animal/animal (4).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/animal/animal (5).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/animal/animal (6).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/animal/animal (7).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/animal/animal (8).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/animal/animal (9).jpg","h":"350","contributor":"ccc"}]
+    },
+    "simple":{
+      "title":"简约",
+      "total":"2100",
+      "typeSrc":"/static/img/kinds_imgs/kinds_simple.jpg",
+      "src":[{"src":"static/img/PhotoCard/Simple/Simple (1).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/Simple/Simple (2).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/Simple/Simple (3).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/Simple/Simple (4).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/Simple/Simple (5).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/Simple/Simple (6).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/Simple/Simple (7).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/Simple/Simple (8).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/Simple/Simple (9).jpg","h":"350","contributor":"ccc"}]
+    },
+    "sky":{
+      "title":"天空",
+      "total":"1302",
+      "typeSrc":"/static/img/kinds_imgs/kinds_sky.jpg",
+      "src":[{"src":"static/img/PhotoCard/sky/sky (1).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/sky/sky (2).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/sky/sky (3).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/sky/sky (4).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/sky/sky (5).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/sky/sky (6).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/sky/sky (7).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/sky/sky (8).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/sky/sky (9).jpg","h":"350","contributor":"ccc"}]
+    },
+    "city":{
+      "title":"城市",
+      "total":"1301",
+      "typeSrc":"/static/img/kinds_imgs/kinds_city.jpg",
+      "src":[{"src":"static/img/PhotoCard/city/city (1).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/city/city (2).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/city/city (3).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/city/city (4).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/city/city (5).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/city/city (6).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/city/city (7).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/city/city (8).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/city/city (9).jpg","h":"350","contributor":"ccc"}]
+    },
+    "comic":{
+      "title":"动漫",
+      "total":"110",
+      "typeSrc":"/static/img/kinds_imgs/kinds_comic.jpg",
+      "src":[{"src":"static/img/PhotoCard/manga/manga (1).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/manga/manga (2).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/manga/manga (3).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/manga/manga (4).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/manga/manga (5).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/manga/manga (6).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/manga/manga (7).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/manga/manga (8).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/manga/manga (9).jpg","h":"350","contributor":"ccc"}]
+    },
+    "game":{
+      "title":"游戏",
+      "total":"10021",
+      "typeSrc":"/static/img/kinds_imgs/kinds_game.jpg",
+      "src":[{"src":"static/img/PhotoCard/game/game (1).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/game/game (2).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/game/game (3).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/game/game (4).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/game/game (5).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/game/game (6).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/game/game (7).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/game/game (8).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/game/game (9).jpg","h":"350","contributor":"ccc"}]
+    },
+    "space":{
+      "title":"太空",
+      "total":"1030",
+      "typeSrc":"/static/img/kinds_imgs/kinds_space.jpg",
+      "src":[{"src":"static/img/PhotoCard/space/space (1).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/space/space (2).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/space/space (3).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/space/space (4).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/space/space (5).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/space/space (6).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/space/space (7).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/space/space (8).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/space/space (9).jpg","h":"350","contributor":"ccc"}]
+    },
+    "healthy":{
+      "title":"健康",
+      "total":"457",
+      "typeSrc":"/static/img/kinds_imgs/kinds_healthy.jpg",
+      "src":[{"src":"static/img/PhotoCard/health/health (1).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/health/health (2).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/health/health (3).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/health/health (4).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/health/health (5).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/health/health (6).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/health/health (7).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/health/health (8).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/health/health (9).jpg","h":"350","contributor":"ccc"}]
+    },
+    "happiness":{
+      "title":"开心",
+      "total":"129",
+      "typeSrc":"/static/img/kinds_imgs/kinds_happy.jpg",
+      "src":[{"src":"static/img/PhotoCard/happy/happy (1).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/happy/happy (2).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/happy/happy (3).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/happy/happy (4).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/happy/happy (5).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/happy/happy (6).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/happy/happy (7).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/happy/happy (8).jpg","h":"350","contributor":"ccc"},{"src":"static/img/PhotoCard/happy/happy (9).jpg","h":"350","contributor":"ccc"}]
+    }
+  },
+  "recommend":{}
+}
